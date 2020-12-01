@@ -1,0 +1,8 @@
+{
+  "DWH::STS_CATEGORIES": {
+    "target": {
+      "object": "CATEGORIES",
+      "schema": "I049304"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "I049304_Schema": {
+        "object_owner": {
+            "roles": [
+                "I049304::external_access_g"
+            ]
+        },
+        "application_user": {
+            "roles": [
+                "I049304::external_access"
+            ]
+        }
+    }
+}
